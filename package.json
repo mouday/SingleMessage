@@ -1,0 +1,20 @@
+{
+  "name": "single-message",
+  "version": "1.0.0",
+  "description": "基于Vue和ElementUI，限制只有一个消息提示",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Vue",
+    "ElementUI",
+    "Message"
+  ],
+  "author": "Peng Shiyu",
+  "license": "ISC",
+  "dependencies": {
+    "element-ui": "^2.13.2",
+    "vue": "^2.6.11"
+  }
+}
