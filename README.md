@@ -36,3 +36,7 @@ import SingleMessage from "single-message";
 
 SingleMessage.success("成功");
 ```
+
+options 参数可参考 ElementUI 文档
+
+[https://element.eleme.cn/#/zh-CN/component/message](https://element.eleme.cn/#/zh-CN/component/message)
