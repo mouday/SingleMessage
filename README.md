@@ -4,6 +4,10 @@
 
 使用方式
 
+```bash
+$ npm i single-message
+```
+
 引入
 
 ```js

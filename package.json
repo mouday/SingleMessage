@@ -11,8 +11,13 @@
     "ElementUI",
     "Message"
   ],
+  "homepage": "https://github.com/mouday/SingleMessage",
   "author": "Peng Shiyu",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mouday/SingleMessage/issues",
+    "email": "pengshiyuyx@gmail.com"
+  },
   "dependencies": {
     "element-ui": "^2.13.2",
     "vue": "^2.6.11"
