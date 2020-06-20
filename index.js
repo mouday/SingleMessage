@@ -29,11 +29,11 @@ class SingleMessage {
     this._message(message, "warning", options);
   }
 
-  static info(message) {
+  static info(message, options = null) {
     this._message(message, "info", options);
   }
 
-  static error(message) {
+  static error(message, options = null) {
     this._message(message, "error", options);
   }
 

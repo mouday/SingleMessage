@@ -1,6 +1,6 @@
 {
   "name": "single-message",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "基于Vue和ElementUI，限制只有一个消息提示",
   "main": "index.js",
   "scripts": {
